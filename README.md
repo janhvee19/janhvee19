@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Janhvee
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C,Python, JAVA, C++, HTML, CSS.
+- 🌱 I’m currently learning C,Python, JAVA.
 - 📫 Reach me singhjanvi154@gmail.com 
 
 <!---
